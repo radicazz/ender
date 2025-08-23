@@ -1,7 +1,7 @@
 # ender
 A Windows GUI framework for modern C++ with a focus on simplicity,
 elegance and efficiency. Various usage examples can be found in
-[`ender/examples`](https://github.com/VortexShrimp/ender/tree/master/examples).
+[`ender/examples`](https://github.com/radicazz/ender/tree/master/examples).
 
 ## About
 Anyone who regularly uses C++ will eventually run into the problem of
@@ -15,11 +15,11 @@ use.
 
 - 64-Bit Windows & DirectX 11
 - C++ Build Tools (Visual Studio 2022)
-- Source Dependencies [[`ender/lib`](https://github.com/VortexShrimp/ender/tree/master/ender/lib)]
+- Source Dependencies [[`ender/lib`](https://github.com/radicazz/ender/tree/master/ender/lib)]
 
 ### Building Examples
 
-1. `git clone https://github.com/VortexShrimp/ender.git`
+1. `git clone https://github.com/radicazz/ender.git`
 2. Open `ender.sln` in Visual Studio
 3. Build as `x64` -> `Release` or `Debug`
 4. Find `ender.exe` in `ender/build/x64` by default
